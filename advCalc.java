@@ -12,7 +12,7 @@ public class advcalc {
         String take = input.nextLine();
         // Remove spacing and letters
         String use1 = take.replaceAll("[^0-9+\\-*/.]", "");
-        
+        df
         
         
     }
